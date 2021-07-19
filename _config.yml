@@ -83,11 +83,11 @@ author:
   name             : "He Wang"
   avatar           : "profile.png"
   bio              : "2nd-year Guaduate Student @ ShanghiTech University. Looking for a PhD position (starting from 2020 Fall)!"
-  location         : "Location"
+  location         : "Shanghai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=UMgX_-YAAAAJ&hl=zh-CN"
+  email            :  wanghe at shanghaitech.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "IrisWangHe"
   google_plus      :
   keybase          :
   instagram        :
