@@ -10,8 +10,8 @@ redirect_from:
 
 Hello and wellcome! I am currently a 2nd year master, advised by Prof. Jie Lu ShanghaiTech University. Ealier, I obtained my bachelor degree with honor in Computer Science and Technology from ShanghaiTech University. During my undergraduate period, I studied as a visiting undergraduate student at UC Berkeley for the summer session in 2017.
 
-My research interests lie in \textbf{distributed optimization}, \textbf{distributed} and \textbf{federated machine learning}, \textbf{multi-agent reinforcement learning} and \textbf{algorithmic game theory}.
+My research interests lie in **distributed optimization**, **distributed** and **federated machine learning**, **multi-agent reinforcement learning** and **algorithmic game theory**.
 
 
-\textbf{I am actively looking for a PhD position starting from Fall 2022.}
+**I am actively looking for a *PhD position* starting from Fall 2022.**
 
