@@ -6,5 +6,8 @@ collection: research
 
 <p>&nbsp;</p>
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
 
+
+## Reference:
+
+1. He Wang and Jie Lu, "[An Inexact Fenchel Dual Gradient Algorithm for Distributed Optimization](https://ieeexplore.ieee.org/abstract/document/9264365)'',  in *IEEE International Conference on Control & Automation (ICCA)*, 2020. 
