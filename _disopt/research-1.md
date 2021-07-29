@@ -1,7 +1,7 @@
 ---
 title: "An Inexact Fenchel Dual Gradient Algorithm for Distributed Optimization"
 excerpt: "In this paper, we design a distributed algorithm for addressing constrained convex optimization over networks. The proposed algorithm is developed by substituting a projected gradient operation for a convex minimization step at each iteration of the Fenchel dual gradient (FDG) method, so that the high computational load of FDG can be significantly alleviated."
-collection: research
+collection: disopt
 ---
 
 <p>&nbsp;</p>

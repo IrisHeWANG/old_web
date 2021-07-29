@@ -5,7 +5,7 @@ collection: research
 
 <p>&nbsp;</p>
 
-
+{% include base_path %}
 
 ### Inexact 
 
