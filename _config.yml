@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   disopt:
     output: true
-    permalink: /:collection/:path/
+    permalink: /research/:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
