@@ -11,6 +11,6 @@ My research interests lie in **distributed optimization**, **distributed** and *
 
 
 {% for post in site.research %}
-  {% include archive-single.html %}
+  {% include archive-archive.html %}
 {% endfor %}
 
