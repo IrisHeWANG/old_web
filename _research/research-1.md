@@ -6,12 +6,12 @@ collection: research
 
 <p>&nbsp;</p>
 
-We consider that a set of agents $\mathcal{V} = \{1,\ldots,N\}$, cooperativly solve the following convex constrained optimization problem:
+We consider that a set of agents $\mathcal{V} = {1,\ldots,N}$, cooperativly solve the following convex constrained optimization problem:
 
 
 
 <p align="center">
-  <img src='/images/research/IFDG/problem.png' style="width:50%">
+  <img src='/images/research/IFDG/problem.png' style="width:40%">
 </p>
 
 where $f_i$ is strongly convex and smooth and $X_i$ is closed and convex.
@@ -26,7 +26,7 @@ Motivated by the above advantage and drawback of FDG, in this paper we propose a
 
 <p align="center">
   <img src='/images/research/IFDG/diff.png'>
-  <figcaption>The difference between FDG and IFDG, marked in red.</figcaption>
+  <figcaption>Fig. - The difference between FDG and IFDG, marked in red.</figcaption>
 </p>
 
 
