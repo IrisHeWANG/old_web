@@ -13,7 +13,11 @@ $$
 \text { subject to } & x \in \bigcap_{i \in \mathcal{V}} X_{i}
 \end{array}
 $$
-Existing algorithm, a Fenchel dual gradient (FDG) method, is constructed by applying a weighted gradient method to the Fenchel dual of a distributed optimization problem with strongly convex (but not necessarily smooth) local objective functions and nonidentical local constraints. Convergence rate guarantees of FDG are also derived, which are highly scalable in terms of the network size. However, in order to evaluate the gradient of the Fenchel dual function, FDG requires each node to solve a constrained convex optimization problem per iteration, which could be very costly. 
+One of existing algorithms, a Fenchel dual gradient (FDG) method, can
+
+
+
+is constructed by applying a weighted gradient method to the Fenchel dual of a distributed optimization problem with strongly convex (but not necessarily smooth) local objective functions and nonidentical local constraints. Convergence rate guarantees of FDG are also derived, which are highly scalable in terms of the network size. However, in order to evaluate the gradient of the Fenchel dual function, FDG requires each node to solve a constrained convex optimization problem per iteration, which could be very costly. 
 
 Motivated by the above advantage and drawback of FDG, in this paper we propose an **Inexact Fenchel Dual Gradient (IFDG) algorithm** for constrained distributed convex optimization. Instead of computing the exact Fenchel dual gradient via solving a constrained convex optimization problem as FDG does, here we derive an *inexact* Fenchel dual gradient by applying a single projected gradient operation on the latest iterate. Such a substitute is able to lower the computational costs of FDG to a great extent. The detailed implementation is shown as follows:
 
