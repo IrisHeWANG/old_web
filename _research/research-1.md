@@ -15,7 +15,8 @@ $$
 \text { subject to } & x \in \bigcap_{i \in \mathcal{V}} X_{i}
 \end{array}
 $$
-where $f_i$ is strongly convex and smooth and $X_i$ is closed and convex.
+- $f_i$ is strongly convex and smooth.
+- $X_i$ is closed and convex.
 
 
 
@@ -36,7 +37,7 @@ Moreover, we show that IFDG achieves an $O(1/k)$ rate of convergence to the opti
 
 
 <p align="center">
-  <img src='/images/research/IFDG/IFDG.pdf'>
+  <img src='/images/research/IFDG/result.png'>
 </p>
 
 
