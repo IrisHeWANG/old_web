@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "Distributed Optimization"
-collection: research
+permalink: /research/research-1
+author_profile: true
 ---
 
 <p>&nbsp;</p>
