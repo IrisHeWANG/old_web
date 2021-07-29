@@ -26,7 +26,7 @@ Motivated by the above advantage and drawback of FDG, in this paper we propose a
 
 
 <p align="center">
-  <img src='/images/research/IFDG/diff.pdf'>
+  <img src='/images/research/IFDG/diff.png'>
 </p>
 
 
