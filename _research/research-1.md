@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Distributed Optimization"
-permalink: /research/research-1
+permalink: /disopt/
 author_profile: true
 ---
 
