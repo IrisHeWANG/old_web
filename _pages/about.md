@@ -8,9 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello and wellcome! I am currently a 2nd year master, advised by Prof. [Jie Lu](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54862/page.htm) from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/main.htm) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Ealier, I obtained my bachelor degree with honor in Computer Science and Technology from ShanghaiTech University. During my undergraduate period, I studied as a visiting undergraduate student at [UC Berkeley](https://www.berkeley.edu/) for the summer session in 2017.
+Hello and wellcome! I am currently a 2nd year master, advised by Prof. [Jie Lu](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54862/page.htm) from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/main.htm) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Earlier, I obtained my bachelor degree with honor in Computer Science and Technology from ShanghaiTech University. During my undergraduate period, I studied as a visiting undergraduate student at [UC Berkeley](https://www.berkeley.edu/) for the summer session in 2017.
 
 My research interests lie in **distributed optimization**, **distributed** and **federated machine learning**, **multi-agent reinforcement learning** and **algorithmic game theory**.
 
-**I am actively looking for a *PhD position* starting from Fall 2022.**
+
+
+
+# News
+
+**[2021/07] (New paper)** Our paper "Decentralized Statistical Inference with Unrolled Graph Neural Networks'' is accepted to *IEEE Conference on Decision and Control (CDC)*, 2021!  [[Paper]](https://arxiv.org/pdf/2104.01555.pdf) [[Source Code]](https://github.com/IrisWangHe/Learning-based-DOP-Framework)
+
+**[2021/06] (New paper)** Our paper "Why Politicians Tweet: Discovering Causal Backgrounds for Politicians' Tweets from News Articles'', submitted to *Information Processing and Management*.
+
+**[2021/02] (New paper)** Our paper "Distributed Algorithms for Convex Optimization Problems with Coupling Constraints'', submitted to *IEEE Transactions on Automatica Control (TAC)*.  [[Paper]](https://arxiv.org/pdf/2102.12989.pdf)
+
+**[2020/12] (New paper)** Our paper "A Distributed Proximal Primal-Dual Algorithm for Nonsmooth Optimization with Coupling Constraints'' has been published in *IEEE Conference on Decision and Control (CDC)*, 2020.  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9303937)
 
