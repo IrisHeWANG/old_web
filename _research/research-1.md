@@ -1,6 +1,6 @@
 ---
 title: "Distributed Optimization"
-permalink: /disopt/
+permalink: /research/disopt/
 author_profile: true
 ---
 
