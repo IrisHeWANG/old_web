@@ -9,14 +9,12 @@ collection: research
 We consider that a set of agents $\mathcal{V} = \{1,\ldots,N\}$, cooperativly solve the following convex constrained optimization problem:
 
 
-$$
-\begin{array}{ll}
-\operatorname{minimize}_{x \in \mathbb{R}^{d}} & \sum_{i \in \mathcal{V}} f_{i}(x) \\
-\text { subject to } & x \in \bigcap_{i \in \mathcal{V}} X_{i}
-\end{array}
-$$
-- $f_i$ is strongly convex and smooth.
-- $X_i$ is closed and convex.
+
+<p align="center">
+  <img src='/images/research/IFDG/problem.png'>
+</p>
+
+where $f_i$ is strongly convex and smooth and $X_i$ is closed and convex.
 
 
 
