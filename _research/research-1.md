@@ -1,6 +1,6 @@
 ---
 title: "Distributed Optimization"
-permalink: /research/disopt/
+permalink: /research/
 author_profile: true
 ---
 
@@ -11,6 +11,5 @@ author_profile: true
 ### Inexact 
 
 {% for post in site.disopt %}
-  {% include archive-single.html %}
 {% endfor %}
 
