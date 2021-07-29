@@ -187,9 +187,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  disopt:
-    output: true
-    permalink: /research/:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -257,14 +254,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _disopt
-  - scope:
-      path: ""
-      type: disopt
-    values:
-      layout: disopt
       author_profile: true
       share: true
 
