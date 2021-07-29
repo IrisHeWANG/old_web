@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Distributed Optimization"
 permalink: /disopt/
 author_profile: true
