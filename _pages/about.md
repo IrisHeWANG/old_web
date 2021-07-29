@@ -12,6 +12,7 @@ Hello and wellcome! I am currently a 2nd year master, advised by Prof. [Jie Lu](
 
 My research interests lie in **distributed optimization**, **distributed** and **federated machine learning**, **multi-agent reinforcement learning** and **algorithmic game theory**.
 
+**I am actively looking for a *PhD position* starting from Fall 2022.** If you are interested in working with me, please feel free to [contact me](mailto:wanghe@shanghaitech.edu.cn)!
 
 
 
