@@ -1,6 +1,6 @@
 ---
 title: "Learning for Optimization: Decentralized Statistical Inference with Unrolled Graph Neural Networks"
-excerpt: "In this paper, we investigate the decentralized statistical inference problem and propose a learning-based framework, which unrolls well-noted decentralized optimization algorithms into graph neural networks. This method addresses the issues of model mismatch and improve convergence speed to a large extent."
+excerpt: "In this paper, we investigate the decentralized statistical inference problem and propose a learning-based framework, which unrolls well-noted decentralized optimization algorithms into GNNs. Our method addresses the issues of model mismatch and improve convergence speed to a large extent."
 collection: research
 ---
 
