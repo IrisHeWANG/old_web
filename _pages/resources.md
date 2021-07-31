@@ -12,7 +12,7 @@ author_profile: true
 
 ### Notes on Optimization
 
-1. Survey for coordinate descent methods.
+1. Survey for [coordinate descent methods](https:///iriswanghe.github.io/images/resources/CD_survey.pdf).
 
 ### Slides  for Virtual Conference
 
