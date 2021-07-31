@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-My research interests lie in **distributed optimization**, **distributed** and **federated machine learning**, **multi-agent reinforcement learning** and **algorithmic game theory**. 
+My research interests lie in **distributed optimization, distributed and federated machine learning, multi-agent reinforcement learning and algorithmic game theory**. 
 
 Here are selected research projects that I have worked on. If you are interested in it, click on the title link for more details!
 
