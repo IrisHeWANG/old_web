@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-### Note on Game Theory
+### Notes on Game Theory
 
 1. Slides for [basic concepts of cooperative game theory](https:///iriswanghe.github.io/images/resources/Basic_Concepts.pdf), including Shapley value, core, nucleolus, kernel and so on. Refer to Computational Aspects of Cooperative Game Theory, written by G. Chalkiadakis, E. Elkind, and M. Wooldridge.
 
@@ -19,4 +19,13 @@ author_profile: true
 1. [Slides](https:///iriswanghe.github.io/images/resources/ICCA.pdf) for "[An Inexact Fenchel Dual Gradient Algorithm for Distributed Optimization](https://ieeexplore.ieee.org/abstract/document/9264365)'',  in *IEEE International Conference on Control & Automation (ICCA)*, 2020. 
 
 ### Reading Report for Papers
+
+1. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202106.pdf) for "[Data Shapley: Equitable Valuation of Data for Machine Learning](https://arxiv.org/abs/1904.02868)".
+2. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202105.pdf) for "[On the Role of a Market Maker in Networked Cournot Competition](https://ieeexplore.ieee.org/document/7040088/)".
+3. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202104.pdf) for "[On Nonconvex Decentralized Gradient Descent](https://arxiv.org/abs/1608.05766)".
+4. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202103.pdf) for "[Graph Neural Networks for Decentralized Controllers](https://arxiv.org/abs/2003.10280)".
+5. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202101.pdf) for "[Randomized Block Proximal Methods for Distributed Stochastic Big-Data Optimization](https://ieeexplore.ieee.org/document/9209158?denied=)".
+6. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202012.pdf) for "[Graph Attention Networks](https://arxiv.org/abs/1710.10903)".
+7. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202011.pdf) for "[Distributed Learning in Network Games: a Dual Averaging Approach](https://ieeexplore.ieee.org/abstract/document/9030002)".
+8. [Reading resport](https:///iriswanghe.github.io/images/paper_reading/202010.pdf) for "[A Randomized Block Subgradient Approach to Distributed Big Data Optimization](https://ieeexplore.ieee.org/abstract/document/9030156)".
 
