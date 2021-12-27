@@ -26,4 +26,4 @@ My research interests lie in **distributed optimization**, **distributed** and *
 
 **[2020/12] (New paper)** Our work "A Distributed Proximal Primal-Dual Algorithm for Nonsmooth Optimization with Coupling Constraints'' has been published in *Proceedings of IEEE Conference on Decision and Control (CDC)*, 2020!  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9303937)
 
-<script type='text/javascript' id='clustrmaps' src="//clustrmaps.com/map_v2.js?d=I_uOE3DxWcuJCMuYLMmMcoCunu8Tgd49dqTu30nqLSQ&cl=ffffff&w=300&t=tt&d=IKuFde9y1wLT5nPnUw8ZWifg7fxYY90_FammlJLTJbI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<script type='text/javascript' id='clustrmaps' src="//clustrmaps.com/map_v2.js?d=I_uOE3DxWcuJCMuYLMmMcoCunu8Tgd49dqTu30nqLSQ&cl=ffffff&w=a&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
