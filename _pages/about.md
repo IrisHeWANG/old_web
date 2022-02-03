@@ -17,6 +17,7 @@ My research interests lie in **distributed optimization**, **distributed** and *
 
 
 # News
+**[2020/12] (New paper)** Our work "Stable  and  Efficient  Reward  Reallocation  for  Cooperative  Policy Learning  of  Connected  Autonomous  Vehicles'' is accepted to *IEEE International Conference on Robotics and Automation (ICRA)*, 2022! 
 
 **[2021/07] (New paper)** Our work "Decentralized Statistical Inference with Unrolled Graph Neural Networks'' is accepted to *IEEE Conference on Decision and Control (CDC)*!  [[Paper]](https://arxiv.org/pdf/2104.01555.pdf) [[Source Code]](https://github.com/IrisWangHe/Learning-based-DOP-Framework)
 
